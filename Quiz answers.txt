@@ -1,0 +1,18 @@
+ES2015 Version 
+const PI = 3.14;
+
+What is the difference between var and let?
+Answer- With var you are able to reassign/redeclare but you cant redeclare with let.
+
+What is the difference between var and const?
+Answer- With var you can reassign/redeclare but you can not do either with const.
+
+What is the difference between let and const?
+Answer- You can reassing with let, but you cant reassing/redeclare with const
+
+What is hoisting?
+Its the way that we explain how the JS complier works.
+Variables are hoisted to the top of the specific code they are declared in. When using var, 
+you can access the variable name and its undefined value before it is used later on.
+Function declarations are also hoisted and can be invoked "before" they are defined in a codebase.
+
